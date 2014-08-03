@@ -1,0 +1,9 @@
+Building ObtuseCoin
+
+See doc/readme-qt.rst for instructions on building obtusecoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of ObtuseCoin.
+
+See doc/build-*.txt for instructions on building obtusecoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of ObtuseCoin.
